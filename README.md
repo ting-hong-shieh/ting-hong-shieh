@@ -9,9 +9,11 @@
 
 &nbsp;
 
-I've coached physics olympians, read a regulated industry from scratch in four
-months, and built alpha signals in a quant competition where I was also the one
-saying no. Currently reading for an **MCS at UIUC**, online, alongside work.
+**Most ideas are wrong. What I care about is how they get killed.**
+
+In the 2026 WorldQuant IQC, 55 of the 60 signals in our final portfolio were mine.
+I rejected about twenty more. We had signed an agreement splitting the prize by
+submission count — so every signal I cut took money out of someone's pocket.
 
 &nbsp;
 
