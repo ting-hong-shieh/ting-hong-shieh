@@ -39,10 +39,9 @@ saying no. Currently reading for an **MCS at UIUC**, online, alongside work.
   <img alt="02 — SELECTED WORK" src="https://raw.githubusercontent.com/ting-hong-shieh/ting-hong-shieh/main/art/label-work-light.svg" width="100%">
 </picture>
 
-[**AI TUTOR ↗**](https://eliasshieh.com/work/ai-tutor/) — LLM orchestration on a Next.js / MongoDB stack.<br>
-[**IPHO TRAINING ↗**](https://eliasshieh.com/work/ipho-training/) — A training system, not a cram course.<br>
-[**QUANT RESEARCH ↗**](https://eliasshieh.com/work/quant-research/) — 55 of 60 signals mine. About twenty rejected.<br>
-[**TRADING SYSTEMS ↗**](https://eliasshieh.com/work/trading-systems/) — Volatility-managed equity exposure.
+[**LITTLE HOUSE DIARY ↗**](https://eliasshieh.com/work/little-house-diary/) — A portfolio you walk into: nine rooms instead of a nav bar, run by its owner.<br>
+[**MY WEBSITE SPEAKS MATH NOW ↗**](https://eliasshieh.com/writings/my-website-speaks-math-now/) — I always wanted a website that could render LaTeX. A movie finally pushed me to build one.<br>
+[**THE FULL INDEX ↗**](https://eliasshieh.com/work/) — Product, education, research, engineering.
 
 &nbsp;
 
