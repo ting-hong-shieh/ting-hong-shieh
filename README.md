@@ -16,18 +16,6 @@ saying no. Currently reading for an **MCS at UIUC**, online, alongside work.
 &nbsp;
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ting-hong-shieh/ting-hong-shieh/main/art/label-record-dark.svg">
-  <img alt="01 — THE RECORD" src="https://raw.githubusercontent.com/ting-hong-shieh/ting-hong-shieh/main/art/label-record-light.svg" width="100%">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ting-hong-shieh/ting-hong-shieh/main/art/record-dark.svg">
-  <img alt="2026— MCS Computer Science, UIUC · 2026 Quantitative research, WorldQuant IQC · 2025—26 B2B product planner, Everrist · 2021—25 Founder and lead instructor, BeShawn Physics Olympiad · 2016—24 B.Sc. Electrical Engineering, NTU" src="https://raw.githubusercontent.com/ting-hong-shieh/ting-hong-shieh/main/art/record-light.svg" width="100%">
-</picture>
-
-&nbsp;
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ting-hong-shieh/ting-hong-shieh/main/art/statement-dark.svg">
   <img alt="Most ideas are wrong. What I care about is how they get killed." src="https://raw.githubusercontent.com/ting-hong-shieh/ting-hong-shieh/main/art/statement-light.svg" width="100%">
 </picture>
