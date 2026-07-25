@@ -13,7 +13,7 @@
   <img alt="01 — SELECTED WORK" src="https://raw.githubusercontent.com/ting-hong-shieh/ting-hong-shieh/main/art/label-work-light.svg" width="100%">
 </picture>
 
-[**LITTLE HOUSE DIARY ↗**](https://eliasshieh.com/work/little-house-diary/) — A portfolio you walk into: nine rooms instead of a nav bar, run by its owner.<br>
+[**LITTLE HOUSE DIARY ↗**](https://eliasshieh.com/work/little-house-diary/) — A portfolio you walk into: nine rooms instead of a nav bar, run by its owner.
 
 &nbsp;
 
