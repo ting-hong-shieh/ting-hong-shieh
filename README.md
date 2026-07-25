@@ -16,15 +16,8 @@ saying no. Currently reading for an **MCS at UIUC**, online, alongside work.
 &nbsp;
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ting-hong-shieh/ting-hong-shieh/main/art/statement-dark.svg">
-  <img alt="Most ideas are wrong. What I care about is how they get killed." src="https://raw.githubusercontent.com/ting-hong-shieh/ting-hong-shieh/main/art/statement-light.svg" width="100%">
-</picture>
-
-&nbsp;
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ting-hong-shieh/ting-hong-shieh/main/art/label-work-dark.svg">
-  <img alt="02 — SELECTED WORK" src="https://raw.githubusercontent.com/ting-hong-shieh/ting-hong-shieh/main/art/label-work-light.svg" width="100%">
+  <img alt="01 — SELECTED WORK" src="https://raw.githubusercontent.com/ting-hong-shieh/ting-hong-shieh/main/art/label-work-light.svg" width="100%">
 </picture>
 
 [**LITTLE HOUSE DIARY ↗**](https://eliasshieh.com/work/little-house-diary/) — A portfolio you walk into: nine rooms instead of a nav bar, run by its owner.<br>
@@ -35,7 +28,7 @@ saying no. Currently reading for an **MCS at UIUC**, online, alongside work.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ting-hong-shieh/ting-hong-shieh/main/art/label-tools-dark.svg">
-  <img alt="03 — INSTRUMENTS" src="https://raw.githubusercontent.com/ting-hong-shieh/ting-hong-shieh/main/art/label-tools-light.svg" width="100%">
+  <img alt="02 — INSTRUMENTS" src="https://raw.githubusercontent.com/ting-hong-shieh/ting-hong-shieh/main/art/label-tools-light.svg" width="100%">
 </picture>
 
 <samp>
@@ -50,7 +43,7 @@ Cloudflare Workers · Vercel · Git
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ting-hong-shieh/ting-hong-shieh/main/art/label-elsewhere-dark.svg">
-  <img alt="04 — ELSEWHERE" src="https://raw.githubusercontent.com/ting-hong-shieh/ting-hong-shieh/main/art/label-elsewhere-light.svg" width="100%">
+  <img alt="03 — ELSEWHERE" src="https://raw.githubusercontent.com/ting-hong-shieh/ting-hong-shieh/main/art/label-elsewhere-light.svg" width="100%">
 </picture>
 
 <samp>
