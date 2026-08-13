@@ -44,7 +44,6 @@ Cloudflare Workers · Vercel · Git
 <div align="center">
 
 <img height="165" alt="Elias Shieh's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=ting-hong-shieh&show_icons=true&hide_rank=true&theme=transparent&hide_border=true">
-<img height="165" alt="Elias Shieh's most used languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=ting-hong-shieh&layout=compact&langs_count=6&theme=transparent&hide_border=true">
 
 </div>
 
