@@ -31,22 +31,22 @@
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white">
-  <img alt="pandas" src="https://img.shields.io/badge/pandas-111111?style=flat-square&logo=pandas&logoColor=white">
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white">
-  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-111111?style=flat-square&logo=latex&logoColor=white">
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-111111?style=flat-square&logo=pandas&logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=white">
+  <img alt="DuckDB" src="https://img.shields.io/badge/DuckDB-111111?style=flat-square&logo=duckdb&logoColor=white">
   <br>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=white">
   <img alt="Astro" src="https://img.shields.io/badge/Astro-111111?style=flat-square&logo=astro&logoColor=white">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=white">
+  <img alt="Godot" src="https://img.shields.io/badge/Godot-111111?style=flat-square&logo=godotengine&logoColor=white">
   <img alt="Sanity" src="https://img.shields.io/badge/Sanity-111111?style=flat-square&logo=sanity&logoColor=white">
   <br>
   <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare%20Workers-111111?style=flat-square&logo=cloudflareworkers&logoColor=white">
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-111111?style=flat-square&logo=githubactions&logoColor=white">
 </p>
 
 &nbsp;
