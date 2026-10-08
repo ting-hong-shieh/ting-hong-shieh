@@ -58,16 +58,37 @@ automatically expand the profile. Keep qualifications when shortening descriptio
 
 | File | Purpose |
 | --- | --- |
-| `art/coastal-research-station.webp` | Full scene, title, and illustrated website invitation |
-| `art/quantrail.png` | Green railcar, rails, research notebook, pencil, and leaves |
-| `art/polish-open-source-prose.png` | Open notebook, teal pen, books, coastal picture, and leaves |
+| `art/coastal-research-station-optimized.webp` | Full scene, title, and illustrated website invitation |
+| `art/quantrail.webp` | Green railcar, rails, research notebook, pencil, and leaves |
+| `art/polish-open-source-prose.webp` | Open notebook, teal pen, books, coastal picture, and leaves |
 | `docs/reference/coastal-readme-concept.png` | Unmodified approved concept; visual reference, not the README itself |
 | `docs/asset-prompts.md` | Exact prompts for the three current illustrations |
 
 The three illustrations were produced with the built-in image generation tool using
 the approved concept as the edit target. The outputs are close adaptations, not exact
-pixel crops. The original concept is preserved separately. The hero uses a high-quality WebP export; the two project illustrations use resized
-PNG exports with transparency retained.
+pixel crops. The original concept is preserved separately. All three displayed assets
+use WebP exports. The two project illustrations retain their transparent backgrounds.
+
+### Image loading
+
+On 2026-10-09, the displayed image payload was reduced from 1,116,409 to 373,896 bytes
+without changing pixel dimensions. The original exports remain in `art/` as sources:
+`coastal-research-station.webp`, `quantrail.png`, and `polish-open-source-prose.png`.
+They are not referenced by the README and do not add to its image downloads.
+
+| Displayed export | Dimensions | Bytes | WebP quality |
+| --- | --- | --- | --- |
+| `coastal-research-station-optimized.webp` | 1400 × 922 | 219,106 | 85 |
+| `quantrail.webp` | 760 × 380 | 85,330 | 90 |
+| `polish-open-source-prose.webp` | 760 × 380 | 69,460 | 90 |
+
+These exports were encoded with Sharp, effort 6, and alpha quality 100 for the project
+illustrations. Optimize from the retained sources rather than repeatedly recompressing
+the displayed files. Inspect fine lines, lettering, and transparent edges in both themes.
+Keep the displayed image payload near or below 400 KB for this layout when practical.
+Changing an unused source or the reference image does not improve README loading.
+Payload reduction alone does not guarantee a particular load time; GitHub response
+times and the visitor's connection also matter.
 
 Use the approved reference and current assets together for future visual changes. Match
 the framing, outline weight, light direction, and palette. Change one asset at a time.

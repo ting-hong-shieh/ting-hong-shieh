@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://eliasshieh.com/">
-    <img src="art/coastal-research-station.webp" width="100%" alt="Elias Shieh — A small world of things I build. A small astronaut visits a sunlit coastal research station. Explore my website ↗">
+    <img src="art/coastal-research-station-optimized.webp" width="100%" alt="Elias Shieh — A small world of things I build. A small astronaut visits a sunlit coastal research station. Explore my website ↗">
   </a>
 </p>
 
@@ -15,14 +15,14 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ting-hong-shieh/quantrail">
-        <img src="art/quantrail.png" width="100%" alt="A green railcar beside a research notebook">
+        <img src="art/quantrail.webp" width="100%" alt="A green railcar beside a research notebook">
       </a>
       <p><strong><a href="https://github.com/ting-hong-shieh/quantrail">QuantRail ↗</a></strong></p>
       <p>Tools for more inspectable quantitative research. In early development.</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ting-hong-shieh/polish-open-source-prose">
-        <img src="art/polish-open-source-prose.png" width="100%" alt="An open notebook, a teal pen, and a small coastal picture">
+        <img src="art/polish-open-source-prose.webp" width="100%" alt="An open notebook, a teal pen, and a small coastal picture">
       </a>
       <p><strong><a href="https://github.com/ting-hong-shieh/polish-open-source-prose">Polish Open-Source Prose ↗</a></strong></p>
       <p>Testing when an editing agent should leave text alone.</p>
