@@ -38,4 +38,3 @@
 
 [Website ↗](https://eliasshieh.com/) &nbsp; · &nbsp; [Writing ↗](https://eliasshieh.com/writings/) &nbsp; · &nbsp; [GitHub ↗](https://github.com/ting-hong-shieh)
 
-<p align="right"><sub>No straight line.</sub></p>
